@@ -4,8 +4,7 @@ import { Routers } from "./Components/Routers/Routers";
 function App() {
   return (
     <div className="App">
-      <h1>Hey</h1>
-      {/* <Routers /> */}
+      <Routers />
     </div>
   );
 }
